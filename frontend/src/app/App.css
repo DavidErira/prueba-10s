@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;300;400;500;600;1,100&display=swap');
+
+
+/* DECLARACIÓN DE VARIABLES GENERALES */
+:root {
+  --violeta-0: #3a1f66;
+  --blanco-1 : #F9F9F9;
+  --blanco-2:#E8E8E8;
+  --gris-2: #C0C0C0;
+  --gris-1: #d8d8d8;
+
+  --font-1:'Montserrat', sans-serif;
+}

@@ -1,0 +1,6 @@
+backend/node_modules/
+frontend/node_modules/
+.env
+app.yaml
+src/public/bundle-omnicanality.js
+src/public/style-omincanality.css
